@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#plasmo-shadow-container {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.5;
+}
